@@ -9,3 +9,5 @@ if ($_SESSION['lang'] == "ru") {
 if ($_SESSION['lang'] == "en") {
     echo "Welcome";
 }
+
+//test

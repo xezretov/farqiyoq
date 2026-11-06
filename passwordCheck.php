@@ -11,4 +11,5 @@ if (isset($_POST['lang'])) {
     }
     header("Location: dashboard.php");
 }
+// test
 ?>
